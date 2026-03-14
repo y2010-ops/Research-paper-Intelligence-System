@@ -1,0 +1,6 @@
+﻿# Sample AI Research Papers (download these manually)
+https://arxiv.org/pdf/1706.03762.pdf  # Attention Is All You Need (Transformers)
+https://arxiv.org/pdf/1810.04805.pdf  # BERT
+https://arxiv.org/pdf/2005.14165.pdf  # GPT-3
+https://arxiv.org/pdf/2103.00020.pdf  # CLIP
+https://arxiv.org/pdf/1904.08779.pdf  # DistilBERT
